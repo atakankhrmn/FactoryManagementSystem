@@ -1,0 +1,8 @@
+username,orderId,status,isRatedBefore
+hakan.unal,12432,sent,true
+hakan.unal,12434,declined,false
+yasemin.unal,59348,sent,true
+ece.kaya,12345,sent,false
+ece.kaya,54321,sent,true
+ece.kaya,32524,declined,false
+ece.kaya,11982,sent,true

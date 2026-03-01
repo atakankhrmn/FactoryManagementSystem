@@ -1,0 +1,13 @@
+employeeUsername,payroll,shift,rating,leaveRequest,leaveResult,manager
+ali.altundal,40100.00,day,2.3,false,false,semih.utku
+elif.sahin,36800.00,night,0.6,false,true,omer.aydin
+ayse.unal,30500.00,day,2.4,true,false,burak.altundal
+melis.ozkan,39800.00,day,4.7,false,false,semih.utku
+buse.acar,44800.00,day,4.8,true,true,omer.aydin
+mert.demir,41200.00,day,1.8,false,false,omer.aydin
+ahmet.acar,46400.00,day,4.1,true,true,semih.utku
+emre.aydin,32600.00,day,4.9,true,true,burak.altundal
+mehmet.sahin,40800.00,night,2.0,true,true,burak.altundal
+fatma.kaya,34600.00,night,3.8,true,true,burak.altundal
+zeynep.kaya,33700.00,night,1.9,true,true,semih.utku
+kerem.unal,45100.00,day,3.9,false,false,omer.aydin
